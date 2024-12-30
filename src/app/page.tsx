@@ -37,6 +37,13 @@ const products: Product[] = [
     description: "Durable laptop backpack with multiple compartments",
     imageUrl: "/images/laptopBagpack.jpg",
   },
+  {
+    id: 4,
+    name: "Laptop Backpack  ",
+    price: 49.99,
+    description: "Durable laptop backpack with multiple compartments",
+    imageUrl: "/images/laptopBagpack.jpg",
+  },
 ];
 
 const Home = () => {
